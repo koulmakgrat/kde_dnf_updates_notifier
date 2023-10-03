@@ -4,7 +4,7 @@
 
 ## Description
 
-This Python script checks for available system updates on a Linux machine and sends a KDE notification.
+This Python script checks for available system updates on a Fedora Linux machine and sends a KDE notification.
 
 ## Requirements
 
@@ -76,7 +76,7 @@ python3 script.py
 
 ## Описание
 
-Этот скрипт на Python проверяет доступные системные обновления на Linux-машинах и отправляет уведомление KDE.
+Этот скрипт на Python проверяет доступные системные обновления на Fedora Linux машинах и отправляет уведомление KDE.
 
 ## Требования
 
